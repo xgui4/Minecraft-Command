@@ -1,0 +1,17 @@
+// Java Edition 1.13/Flattening et Bedrock 
+
+/gamemode @s creative
+/gamemode @s adventure
+/gamemode @s survival
+/gamemode @s spectator
+
+/give @s minecraft:barrier
+/give @s minecraft:structure_void 
+/give @s minecraft:debug_stick // Java seulement
+/give @s minecraft:structure_block
+/give @s minecraft:command_block 
+/give @s minecraft:repeating_command_block
+/give @s minecraft:chain_command_block 
+
+// 1.14 +
+/give @s minecraft:jigsaw__block
