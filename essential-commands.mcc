@@ -14,4 +14,4 @@
 /give @s minecraft:chain_command_block 
 
 // 1.14 +
-/give @s minecraft:jigsaw__block
+/give @s jigsaw

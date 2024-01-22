@@ -1,0 +1,1 @@
+LAUNCHER_PATH = "C:\Program Files\Modrinth App\Modrinth App.exe"
